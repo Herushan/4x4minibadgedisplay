@@ -1,5 +1,5 @@
 # 4x4minibadgedisplay
-Desktop 4x4 sized minibadge display that is USB-C or MDNC powered.
+Desktop 4x4 sized minibadge display that is USB-C or MDNC powered. Version 2 has some new updates to the clock circuit.
 
 **********************************************************************************************************************************
 WARNING DO NOT CONNECT TWO POWER SOURCES AT THE SAME TIME THE USB-C ONLY ON ONE BOARD IF USING THE MDNC TO POWER THE OTHER BOARDS
